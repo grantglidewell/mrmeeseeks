@@ -1,0 +1,12 @@
+{
+  "name": "mr_meeseeks_recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Glidewell <this.prototype.grant@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
