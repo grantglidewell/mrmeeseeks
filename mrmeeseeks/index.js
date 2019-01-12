@@ -2,7 +2,7 @@ const mespeaks = require('../mespeaks.json')
 function mrMeeseeks(desire = '') {
     console.log(mespeaks.greetings[Math.floor(Math.random() * mespeaks.greetings.length)])
     // Mr Meeseeks grants your simple desire
-    if (desire == '') {
+    if (desire === '') {
         return 'Bye!'
     }
     if (desire.split(' ').length < 3) {
